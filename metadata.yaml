@@ -1,0 +1,29 @@
+_repo: Passages-from-the-American-Notebooks-Volume-2._8089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Homes and haunts -- New England'
+- !lcsh 'New England -- Intellectual life -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Diaries'
+- !lcsh 'Authors, American -- Homes and haunts -- New England'
+- !lcsh 'New England -- Social life and customs'
+- GITenberg
+title: Passages from the American Notebooks, Volume 2.
+url: http://www.gutenberg.org/ebooks/8089
